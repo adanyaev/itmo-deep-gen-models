@@ -1,1 +1,4 @@
-# itmo-deep-gen-models
+# Курс Глубокие генеративные модели (Deep Generative Models)
+
+### Даняев Артем Андреевич
+
