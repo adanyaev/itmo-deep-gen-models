@@ -40,14 +40,14 @@
       ![image](https://github.com/adanyaev/itmo-deep-gen-models/assets/38013055/816acf5e-7ab6-4b64-b576-f57ad05bac46)
       ![image](https://github.com/adanyaev/itmo-deep-gen-models/assets/38013055/914cd2ae-40b6-4437-9626-2c42dfe8717e)
       ![image](https://github.com/adanyaev/itmo-deep-gen-models/assets/38013055/c67b5232-8ed1-47b9-8b8d-67545d8dca9d)
-
-   ### Face swap
+     
+  ### Face swap
    
-    Замена лица с помощью arcface loss. В ходе экспериментов подбирал оптимальные коэффициенты лоссов
+  Замена лица с помощью arcface loss. В ходе экспериментов подбирал оптимальные коэффициенты лоссов
 
-    По строкам - изначальные лица, по столбцам - накладываемые лица
+  По строкам - изначальные лица, по столбцам - накладываемые лица
 
-     ![image](swap_collage.png)
+  ![image](swap_collage.png)
 
 
 
